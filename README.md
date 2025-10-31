@@ -41,7 +41,7 @@ My objective is to strengthen my cybersecurity skills and knowledge through hand
 
 ## Projects  
 - [PhishNet Email Analysis](https://github.com/keemthedream45/PhishNet-Email-Analysis)-  Phishing investigation lab analyzing email headers, links, and attachments to trace the attacker and uncover spoofing and malware delivery tactics.
-- [SOC Automation Lab](https://github.com/) – Experimenting with basic automation and alert workflows  
+-  
 
 ---
 
