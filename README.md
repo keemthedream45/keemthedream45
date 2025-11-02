@@ -3,8 +3,8 @@
 
 ---
 
-I’m a **cybersecurity student** passionate about continuous learning, hands-on practice, and building a strong technical foundation.  
-This GitHub page is where I share personal projects as I grow toward becoming a **Security Operations Center (SOC) Tier 1 Analyst**.
+I’m a cybersecurity student at Collin College passionate about continuous learning, hands-on practice, and building a strong technical foundation.  
+This GitHub page is where I share personal projects as I grow toward becoming a Security Operations center Tier 1 Analyst 
 
 ---
 
