@@ -48,7 +48,7 @@ Scenario Overview – “Small Business Network Upgrade”
 
 ### Thank you for visiting!
 I’m always open to feedback, collaboration, and advice from the cybersecurity community.  
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/hakeem-w-003267327)
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/HakeemW)
  
 <a href="https://linkedin.com/in/hakeemwainaina"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
