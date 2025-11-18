@@ -27,7 +27,8 @@ My objective is to strengthen my cybersecurity skills and knowledge through hand
 |-----------------------------------------------|--------------------------------|
 | Network Fundamentals | Learning routing, switching, and network troubleshooting |
 | Incident Response | Studying alert triage, escalation, and case documentation |
-
+| DHCP Pool Creation & Dynamic Addressing| The ability to configure DHCP pools allows a router to automatically assign IP settings to devices, reducing errors and simplifying network management.|
+| Router Interface Setup & Multi-LAN Routing| Proper router interface configuration enables communication between multiple networks, ensuring reliable connectivity across different LAN segments. |
 ---
 
 ## Tools
@@ -41,8 +42,8 @@ My objective is to strengthen my cybersecurity skills and knowledge through hand
 
 ## Projects  
 - [PhishNet Email Analysis](https://github.com/keemthedream45/PhishNet-Email-Analysis)-  Phishing investigation lab analyzing email headers, links, and attachments to trace the attacker and uncover spoofing and malware delivery tactics.
--  
-
+-  [PT - DHCPv4-Configuration Lab](https://github.com/keemthedream45/PT-Practice-4-DHCPv4-Configuration/edit/main/README.md) – 
+Scenario Overview – “Small Business Network Upgrade”
 ---
 
 ### Thank you for visiting!
