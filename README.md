@@ -43,7 +43,7 @@ My objective is to strengthen my cybersecurity skills and knowledge through hand
 ## Projects  
 - [PhishNet Email Analysis](https://github.com/keemthedream45/PhishNet-Email-Analysis)-  Phishing investigation lab analyzing email headers, links, and attachments to trace the attacker and uncover spoofing and malware delivery tactics.
 
--  [PT - DHCPv4-Configuration Lab](https://github.com/keemthedream45/PT-Practice-4-DHCPv4-Configuration/edit/main/README.md) – 
+-  [PT - DHCPv4-Configuration Lab](https://github.com/keemthedream45/PT-Practice-4-DHCPv4-Configuration/tree/main) – 
 Scenario Overview – “Small Business Network Upgrade”
 
 - [Switch Security & Inter-VLAN Routing Configuration](https://github.com/keemthedream45/Challenge-Lab-with-Switch-Security-Configuration/blob/main/README.md) Scenario Overview – “Secure Multi-VLAN Small Business Network”
